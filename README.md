@@ -99,7 +99,7 @@ $ cucumber examples/Calc
 
 #### Install project
 ```console
-$ git clone http://gitlab.xtratu.com/cucumber-tests/HelloBDD.git
+$ git clone https://github.com/NorbertoBurciaga/behavior-driven-development-hello.git
 $ cd HelloBDD
 $ mkdir build
 $ cd build
